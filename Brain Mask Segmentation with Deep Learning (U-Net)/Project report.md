@@ -57,7 +57,7 @@ The project is contained within a single Python script (`tp_brainmask_seg_with_u
     If running from the command line, ensure all data download and unzipping steps are complete and that the `/content/training` and `/content/testing` directories exist and contain the data.
 
     ```bash
-    python tp_brainmask_seg_with_unet_en_clean.py
+    python brainmask_seg_with_unet.ipynb
     ```
 
 2.  **Script Steps:**
